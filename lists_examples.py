@@ -1,3 +1,7 @@
+#list[-1] - Always returns the last element in the list
+#title() - Will give the value of the element in the Camel case
+#list[index] = 'value' - Replaces the element with the new value
+#append('value') - Adds the element to the last of the list 
 bicycles = ['trek', 'cannonable', 'redline', 'specialized']
 
 print(bicycles)
