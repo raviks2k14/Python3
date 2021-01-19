@@ -33,9 +33,3 @@ print(countries)
 print("\nPriting the reverse order of the list sorted alphabetically")
 countries.sort(reverse=True)
 print(countries)
-
-
-
-
-
-
