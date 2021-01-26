@@ -1,2 +1,0 @@
-countries = ['india', 'america', 'australia', 'scotland', 'malaysia']
-print(countries)
