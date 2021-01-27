@@ -28,4 +28,3 @@ user_instance_02.greet_user()
 user_instance_03.describe_user()
 user_instance_03.greet_user()
 
-
